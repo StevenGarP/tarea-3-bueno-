@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\par e impar\par e impar\obj\Debug\netcoreapp3.1\par e impar.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\par e impar\par e impar\obj\Debug\netcoreapp3.1\par e impar.AssemblyInfo.cs
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\par e impar\par e impar\obj\Debug\netcoreapp3.1\par e impar.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\par e impar\par e impar\obj\Debug\netcoreapp3.1\par e impar.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\par e impar\par e impar\bin\Debug\netcoreapp3.1\par e impar.exe
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\par e impar\par e impar\bin\Debug\netcoreapp3.1\par e impar.deps.json
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\par e impar\par e impar\bin\Debug\netcoreapp3.1\par e impar.runtimeconfig.json
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\par e impar\par e impar\bin\Debug\netcoreapp3.1\par e impar.runtimeconfig.dev.json
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\par e impar\par e impar\bin\Debug\netcoreapp3.1\par e impar.dll
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\par e impar\par e impar\bin\Debug\netcoreapp3.1\par e impar.pdb
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\par e impar\par e impar\obj\Debug\netcoreapp3.1\par e impar.dll
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\par e impar\par e impar\obj\Debug\netcoreapp3.1\par e impar.pdb
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\par e impar\par e impar\obj\Debug\netcoreapp3.1\par e impar.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\radianes y grados\radianes y grados\bin\Debug\netcoreapp3.1\radianes y grados.exe
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\radianes y grados\radianes y grados\bin\Debug\netcoreapp3.1\radianes y grados.deps.json
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\radianes y grados\radianes y grados\bin\Debug\netcoreapp3.1\radianes y grados.runtimeconfig.json
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\radianes y grados\radianes y grados\bin\Debug\netcoreapp3.1\radianes y grados.runtimeconfig.dev.json
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\radianes y grados\radianes y grados\bin\Debug\netcoreapp3.1\radianes y grados.dll
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\radianes y grados\radianes y grados\bin\Debug\netcoreapp3.1\radianes y grados.pdb
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\radianes y grados\radianes y grados\obj\Debug\netcoreapp3.1\radianes y grados.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\radianes y grados\radianes y grados\obj\Debug\netcoreapp3.1\radianes y grados.AssemblyInfo.cs
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\radianes y grados\radianes y grados\obj\Debug\netcoreapp3.1\radianes y grados.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\radianes y grados\radianes y grados\obj\Debug\netcoreapp3.1\radianes y grados.dll
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\radianes y grados\radianes y grados\obj\Debug\netcoreapp3.1\radianes y grados.pdb
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 110\radianes y grados\radianes y grados\obj\Debug\netcoreapp3.1\radianes y grados.genruntimeconfig.cache
