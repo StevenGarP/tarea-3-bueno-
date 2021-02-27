@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\numero elevado\numero elevado\obj\Debug\netcoreapp3.1\numero elevado.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\numero elevado\numero elevado\obj\Debug\netcoreapp3.1\numero elevado.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\numero elevado\numero elevado\obj\Debug\netcoreapp3.1\numero elevado.AssemblyInfo.cs
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\numero elevado\numero elevado\obj\Debug\netcoreapp3.1\numero elevado.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\numero elevado\numero elevado\bin\Debug\netcoreapp3.1\numero elevado.exe
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\numero elevado\numero elevado\bin\Debug\netcoreapp3.1\numero elevado.deps.json
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\numero elevado\numero elevado\bin\Debug\netcoreapp3.1\numero elevado.runtimeconfig.json
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\numero elevado\numero elevado\bin\Debug\netcoreapp3.1\numero elevado.runtimeconfig.dev.json
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\numero elevado\numero elevado\bin\Debug\netcoreapp3.1\numero elevado.dll
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\numero elevado\numero elevado\bin\Debug\netcoreapp3.1\numero elevado.pdb
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\numero elevado\numero elevado\obj\Debug\netcoreapp3.1\numero elevado.dll
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\numero elevado\numero elevado\obj\Debug\netcoreapp3.1\numero elevado.pdb
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\numero elevado\numero elevado\obj\Debug\netcoreapp3.1\numero elevado.genruntimeconfig.cache
