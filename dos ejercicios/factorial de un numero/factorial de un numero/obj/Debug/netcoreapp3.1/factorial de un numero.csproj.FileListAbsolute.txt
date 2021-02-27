@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\factorial de un numero\factorial de un numero\bin\Debug\netcoreapp3.1\factorial de un numero.exe
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\factorial de un numero\factorial de un numero\bin\Debug\netcoreapp3.1\factorial de un numero.deps.json
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\factorial de un numero\factorial de un numero\bin\Debug\netcoreapp3.1\factorial de un numero.runtimeconfig.json
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\factorial de un numero\factorial de un numero\bin\Debug\netcoreapp3.1\factorial de un numero.runtimeconfig.dev.json
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\factorial de un numero\factorial de un numero\bin\Debug\netcoreapp3.1\factorial de un numero.dll
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\factorial de un numero\factorial de un numero\bin\Debug\netcoreapp3.1\factorial de un numero.pdb
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\factorial de un numero\factorial de un numero\obj\Debug\netcoreapp3.1\factorial de un numero.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\factorial de un numero\factorial de un numero\obj\Debug\netcoreapp3.1\factorial de un numero.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\factorial de un numero\factorial de un numero\obj\Debug\netcoreapp3.1\factorial de un numero.AssemblyInfo.cs
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\factorial de un numero\factorial de un numero\obj\Debug\netcoreapp3.1\factorial de un numero.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\factorial de un numero\factorial de un numero\obj\Debug\netcoreapp3.1\factorial de un numero.dll
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\factorial de un numero\factorial de un numero\obj\Debug\netcoreapp3.1\factorial de un numero.pdb
+C:\Users\HP\Desktop\tarea 3 programacion\pagina 146\factorial de un numero\factorial de un numero\obj\Debug\netcoreapp3.1\factorial de un numero.genruntimeconfig.cache
